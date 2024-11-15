@@ -1,0 +1,13 @@
+{
+	"id": "0087101a-3225-4a0d-acd5-95766094ad43",
+	"crn": "crn:v1:bluemix:public:project:us-south:a/06fb73c9d9824d5db5e9976653e2da87:0087101a-3225-4a0d-acd5-95766094ad43::",
+	"definition": {
+		"name": "Weather bot",
+		"description": "\"Develop an AI and machine learning model to analyze historical climate data and predict weather patterns accurately. The model aims to assist communities in preparing for extreme weather events and enhancing long-term climate resilience. By leveraging advanced AI algorithms and extensive climate datasets, the project seeks to provide actionable insights that enable proactive planning and mitigation strategies for climate-related risks.\"",
+		"destroy_on_delete": true
+	},
+	"configs": [],
+	"environments": [],
+	"resource_group_id": "bae04e5190f94b34b53b3c8d0e3e2183",
+	"location": "us-south"
+}

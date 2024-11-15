@@ -1,0 +1,112 @@
+"docType":"iam.identity-access-map"
+"version":"1.0.0"
+"createdById":"IBMid-691000GCMD"
+"date":"2024-11-15T14:13:50.670Z"
+"fullReport":true
+"displayName":"Likitha Praharshini Karanam"
+"contact":"karanamlikithapraharshini.22.it@anits.edu.in",,,,,,,
+"Resource","ID","Name","Email","Group Members","Role","Action","Policy IDs"
+"{""crn"":""crn:v1:bluemix:public:project:us-south:a/06fb73c9d9824d5db5e9976653e2da87:0087101a-3225-4a0d-acd5-95766094ad43::"",
+""displayName"":""Weather bot"",
+""serviceName"":""project"",
+""resourceGroupId"":""bae04e5190f94b34b53b3c8d0e3e2183"",
+""resourceGroupName"":""Default""}","IBMid-691000GCMD","Likitha Praharshini Karanam","karanamlikithapraharshini.22.it@anits.edu.in",,,"project.config.validate undefined
+project.config.manual-tag undefined
+project.config.retrieve-cost undefined
+project.config.create-stack-definition undefined
+project.job.delete undefined
+project.config.update-stack-definition undefined
+project.event-notifications.delete undefined
+project.config.retrieve-version-last-validated undefined
+project.compliance.retrieve-profiles undefined
+project.config.export-stack-definition undefined
+project.notifications.create undefined
+project.spending.retrieve-all undefined
+project.job.create undefined
+project.environment.retrieve-account undefined
+project.config.retrieve-version-last-undeployed undefined
+project.event-notifications.create undefined
+project.event-notifications.retrieve undefined
+project.compliance-profiles.retrieve undefined
+project.config.retrieve-stack-definition undefined
+project.environment.retrieve undefined
+project.config.retrieve-version-last-deployed undefined
+project.config.create undefined
+project.config.retrieve-all undefined
+project.config.retrieve undefined
+project.resources.update undefined
+project.resources.retrieve-all undefined
+project.environment.delete undefined
+project.compliance.retrieve-attachments undefined
+project.config.retrieve-diff undefined
+project.environment.create undefined
+project.instance.retrieve-all undefined
+project.config.force-approve undefined
+project.compliance.retrieve undefined
+project.config.retrieve-job undefined
+project.config.delete-version undefined
+project.job.retrieve undefined
+project.config.deploy undefined
+project.environment.retrieve-all undefined
+project.config.update undefined
+project.event-notifications.create-test undefined
+project.config.delete undefined
+project.instance.sync undefined
+project.available-resources.retrieve-all undefined
+project.config.retrieve-all-version undefined
+project.config.approve undefined
+project.config.retrieve-version undefined
+project.job.retrieve-all undefined
+project.config.undeploy undefined
+project.compliance-profiles.retrieve-attachments undefined
+project.config.retrieve-resources undefined
+project.job.update undefined
+project.config.sync undefined
+project.environment.update undefined
+project.notifications.retrieve undefined","=HYPERLINK(""http://iam-ui/users/IBMid-691000GCMD/policies/7c0b2c01-283e-4cd3-afbc-f79d0169d5bc"",""7c0b2c01-283e-4cd3-afbc-f79d0169d5bc"")"
+,,,,,,"resource-controller.key.delete undefined
+cbr.rule.update undefined
+global-search-tagging.resource.read undefined
+iam.policy.update undefined
+resource-controller.instance.create undefined
+resource-controller.key.retrieve undefined
+iam.role.read undefined
+resource-controller.alias.retrieve undefined
+resource-controller.group.retrieve undefined
+cbr.rule.delete undefined
+iam.policy.create undefined
+resource-controller.key.update undefined
+resource-controller.instance.retrieve undefined
+resource-controller.quota.retrieve undefined
+resource-controller.broker.retrieve undefined
+resource-controller.key.create undefined
+cbr.rule.create undefined
+global-search-tagging.tag.attach-user-tag undefined
+global-search-tagging.tag.attach-access-tag undefined
+iam.delegationPolicy.create undefined
+resource-controller.alias.create undefined
+resource-controller.instance.retrieve_history undefined
+iam.policy.delete undefined
+iam.service.read undefined
+cbr.rule.read undefined
+iam.role.assign undefined
+resource-controller.group.update undefined
+resource-controller.group.delete undefined
+resource-controller.credential.retrieve_all undefined
+resource-controller.alias.delete undefined
+iam.policy.read undefined
+resource-controller.broker.update undefined
+resource-controller.broker.delete undefined
+resource-controller.binding.update undefined
+global-search-tagging.tag.detach-user-tag undefined
+resource-controller.binding.create undefined
+resource-controller.instance.update undefined
+resource-controller.alias.update undefined
+resource-controller.group.create undefined
+resource-controller.binding.delete undefined
+resource-controller.binding.retrieve undefined
+global-search-tagging.tag.detach-access-tag undefined
+resource-controller.broker.create undefined
+resource-controller.instance.update_plan undefined
+iam.delegationPolicy.update undefined
+resource-controller.instance.delete undefined","=HYPERLINK(""http://iam-ui/users/IBMid-691000GCMD/policies/7c0b2c01-283e-4cd3-afbc-f79d0169d5bc"",""7c0b2c01-283e-4cd3-afbc-f79d0169d5bc"")"

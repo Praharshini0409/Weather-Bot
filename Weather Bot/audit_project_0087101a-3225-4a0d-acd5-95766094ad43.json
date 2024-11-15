@@ -1,0 +1,359 @@
+{
+  "report": {
+    "docType": "iam.identity-access-map",
+    "version": "1.0.0",
+    "createdById": "IBMid-691000GCMD",
+    "date": "2024-11-15T14:13:12.282Z",
+    "fullReport": true,
+    "displayName": "Likitha Praharshini Karanam",
+    "contact": "karanamlikithapraharshini.22.it@anits.edu.in"
+  },
+  "responses": [
+    {
+      "resource": {
+        "crn": "crn:v1:bluemix:public:project:us-south:a/06fb73c9d9824d5db5e9976653e2da87:0087101a-3225-4a0d-acd5-95766094ad43::",
+        "displayName": "Weather bot",
+        "serviceName": "project",
+        "resourceGroupId": "bae04e5190f94b34b53b3c8d0e3e2183",
+        "resourceGroupName": "Default"
+      },
+      "access": [
+        {
+          "subject": {
+            "user": {
+              "id": "IBMid-691000GCMD",
+              "displayName": "Likitha Praharshini Karanam",
+              "contact": "karanamlikithapraharshini.22.it@anits.edu.in"
+            }
+          },
+          "roleActions": [
+            {
+              "role": {
+                "crn": "crn:v1:bluemix:public:iam::::role:Administrator"
+              },
+              "actions": [
+                {
+                  "action": "project.config.validate"
+                },
+                {
+                  "action": "project.config.manual-tag"
+                },
+                {
+                  "action": "project.config.retrieve-cost"
+                },
+                {
+                  "action": "project.config.create-stack-definition"
+                },
+                {
+                  "action": "project.job.delete"
+                },
+                {
+                  "action": "project.config.update-stack-definition"
+                },
+                {
+                  "action": "project.event-notifications.delete"
+                },
+                {
+                  "action": "project.config.retrieve-version-last-validated"
+                },
+                {
+                  "action": "project.compliance.retrieve-profiles"
+                },
+                {
+                  "action": "project.config.export-stack-definition"
+                },
+                {
+                  "action": "project.notifications.create"
+                },
+                {
+                  "action": "project.spending.retrieve-all"
+                },
+                {
+                  "action": "project.job.create"
+                },
+                {
+                  "action": "project.environment.retrieve-account"
+                },
+                {
+                  "action": "project.config.retrieve-version-last-undeployed"
+                },
+                {
+                  "action": "project.event-notifications.create"
+                },
+                {
+                  "action": "project.event-notifications.retrieve"
+                },
+                {
+                  "action": "project.compliance-profiles.retrieve"
+                },
+                {
+                  "action": "project.config.retrieve-stack-definition"
+                },
+                {
+                  "action": "project.environment.retrieve"
+                },
+                {
+                  "action": "project.config.retrieve-version-last-deployed"
+                },
+                {
+                  "action": "project.config.create"
+                },
+                {
+                  "action": "project.config.retrieve-all"
+                },
+                {
+                  "action": "project.config.retrieve"
+                },
+                {
+                  "action": "project.resources.update"
+                },
+                {
+                  "action": "project.resources.retrieve-all"
+                },
+                {
+                  "action": "project.environment.delete"
+                },
+                {
+                  "action": "project.compliance.retrieve-attachments"
+                },
+                {
+                  "action": "project.config.retrieve-diff"
+                },
+                {
+                  "action": "project.environment.create"
+                },
+                {
+                  "action": "project.instance.retrieve-all"
+                },
+                {
+                  "action": "project.config.force-approve"
+                },
+                {
+                  "action": "project.compliance.retrieve"
+                },
+                {
+                  "action": "project.config.retrieve-job"
+                },
+                {
+                  "action": "project.config.delete-version"
+                },
+                {
+                  "action": "project.job.retrieve"
+                },
+                {
+                  "action": "project.config.deploy"
+                },
+                {
+                  "action": "project.environment.retrieve-all"
+                },
+                {
+                  "action": "project.config.update"
+                },
+                {
+                  "action": "project.event-notifications.create-test"
+                },
+                {
+                  "action": "project.config.delete"
+                },
+                {
+                  "action": "project.instance.sync"
+                },
+                {
+                  "action": "project.available-resources.retrieve-all"
+                },
+                {
+                  "action": "project.config.retrieve-all-version"
+                },
+                {
+                  "action": "project.config.approve"
+                },
+                {
+                  "action": "project.config.retrieve-version"
+                },
+                {
+                  "action": "project.job.retrieve-all"
+                },
+                {
+                  "action": "project.config.undeploy"
+                },
+                {
+                  "action": "project.compliance-profiles.retrieve-attachments"
+                },
+                {
+                  "action": "project.config.retrieve-resources"
+                },
+                {
+                  "action": "project.job.update"
+                },
+                {
+                  "action": "project.config.sync"
+                },
+                {
+                  "action": "project.environment.update"
+                },
+                {
+                  "action": "project.notifications.retrieve"
+                }
+              ],
+              "policyIds": [
+                "http://iam-ui/users/IBMid-691000GCMD/policies/7c0b2c01-283e-4cd3-afbc-f79d0169d5bc"
+              ]
+            }
+          ],
+          "platformExtensions": {
+            "roleActions": [
+              {
+                "role": {
+                  "crn": "crn:v1:bluemix:public:iam::::role:Administrator"
+                },
+                "actions": [
+                  {
+                    "action": "resource-controller.key.delete"
+                  },
+                  {
+                    "action": "cbr.rule.update"
+                  },
+                  {
+                    "action": "global-search-tagging.resource.read"
+                  },
+                  {
+                    "action": "iam.policy.update"
+                  },
+                  {
+                    "action": "resource-controller.instance.create"
+                  },
+                  {
+                    "action": "resource-controller.key.retrieve"
+                  },
+                  {
+                    "action": "iam.role.read"
+                  },
+                  {
+                    "action": "resource-controller.alias.retrieve"
+                  },
+                  {
+                    "action": "resource-controller.group.retrieve"
+                  },
+                  {
+                    "action": "cbr.rule.delete"
+                  },
+                  {
+                    "action": "iam.policy.create"
+                  },
+                  {
+                    "action": "resource-controller.key.update"
+                  },
+                  {
+                    "action": "resource-controller.instance.retrieve"
+                  },
+                  {
+                    "action": "resource-controller.quota.retrieve"
+                  },
+                  {
+                    "action": "resource-controller.broker.retrieve"
+                  },
+                  {
+                    "action": "resource-controller.key.create"
+                  },
+                  {
+                    "action": "cbr.rule.create"
+                  },
+                  {
+                    "action": "global-search-tagging.tag.attach-user-tag"
+                  },
+                  {
+                    "action": "global-search-tagging.tag.attach-access-tag"
+                  },
+                  {
+                    "action": "iam.delegationPolicy.create"
+                  },
+                  {
+                    "action": "resource-controller.alias.create"
+                  },
+                  {
+                    "action": "resource-controller.instance.retrieve_history"
+                  },
+                  {
+                    "action": "iam.policy.delete"
+                  },
+                  {
+                    "action": "iam.service.read"
+                  },
+                  {
+                    "action": "cbr.rule.read"
+                  },
+                  {
+                    "action": "iam.role.assign"
+                  },
+                  {
+                    "action": "resource-controller.group.update"
+                  },
+                  {
+                    "action": "resource-controller.group.delete"
+                  },
+                  {
+                    "action": "resource-controller.credential.retrieve_all"
+                  },
+                  {
+                    "action": "resource-controller.alias.delete"
+                  },
+                  {
+                    "action": "iam.policy.read"
+                  },
+                  {
+                    "action": "resource-controller.broker.update"
+                  },
+                  {
+                    "action": "resource-controller.broker.delete"
+                  },
+                  {
+                    "action": "resource-controller.binding.update"
+                  },
+                  {
+                    "action": "global-search-tagging.tag.detach-user-tag"
+                  },
+                  {
+                    "action": "resource-controller.binding.create"
+                  },
+                  {
+                    "action": "resource-controller.instance.update"
+                  },
+                  {
+                    "action": "resource-controller.alias.update"
+                  },
+                  {
+                    "action": "resource-controller.group.create"
+                  },
+                  {
+                    "action": "resource-controller.binding.delete"
+                  },
+                  {
+                    "action": "resource-controller.binding.retrieve"
+                  },
+                  {
+                    "action": "global-search-tagging.tag.detach-access-tag"
+                  },
+                  {
+                    "action": "resource-controller.broker.create"
+                  },
+                  {
+                    "action": "resource-controller.instance.update_plan"
+                  },
+                  {
+                    "action": "iam.delegationPolicy.update"
+                  },
+                  {
+                    "action": "resource-controller.instance.delete"
+                  }
+                ],
+                "policyIds": [
+                  "http://iam-ui/users/IBMid-691000GCMD/policies/7c0b2c01-283e-4cd3-afbc-f79d0169d5bc"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
